@@ -1,5 +1,4 @@
-<?PHP // Ş-UTF8, 28.11.2016
-// Delta Servis
+<?PHP // Ş-UTF8, 28.11.2021
 // Mehmet Alper Şen
 
 if (!class_exists('ds_validate')) {
