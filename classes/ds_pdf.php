@@ -1,5 +1,4 @@
-<?PHP // Ş-UTF8, 10.04.2019
-// Delta Servis
+<?PHP // Ş-UTF8, 10.04.2021
 // Mehmet Alper Şen
 
 use Mpdf\Mpdf;
